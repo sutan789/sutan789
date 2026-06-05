@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Sutan Irvan Aziz
 
-<!--
-**sutan789/sutan789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer focused on building clean, responsive, and scalable web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building web applications with frontend and backend technologies
+- Interested in clean UI, structured backend, and practical digital solutions
+- Currently improving my skills in full-stack web development
+- Open to freelance projects, collaboration, and internship opportunities
+
+## Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+
+### Backend
+- PHP
+- Laravel
+- Node.js
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+
+## Featured Project
+
+### ACH-13
+A web application project built with TypeScript.  
+This project focuses on clean structure, responsive design, and practical web development implementation.
+
+## GitHub Stats
+
+![Sutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutan789&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutan789&layout=compact&theme=github_dark)
+
+## Contact
+
+- Email: irvansutnn789@gmail.com
+- GitHub: https://github.com/sutan789
+- Portfolio: https://portofolio-web-tavny-tau.vercel.app
