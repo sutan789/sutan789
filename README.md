@@ -1,56 +1,44 @@
-# Hi, I'm Sutan Irvan Aziz
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World,%20I'm%20Sutan!&fontSize=50&animation=fadeIn" width="100%" />
 
-I am a Full-Stack Developer focused on building clean, responsive, and scalable web applications.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4299E1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Building+clean+%26+scalable+apps;Open+to+collaborations!" alt="Typing SVG" /></a>
+</div>
 
-## About Me
+### 👨‍💻 About Me
 
-- Building web applications with frontend and backend technologies
-- Interested in clean UI, structured backend, and practical digital solutions
-- Currently improving my skills in full-stack web development
-- Open to freelance projects, collaboration, and internship opportunities
+- 🔭 I’m currently improving my skills in **Full-Stack Web Development**
+- 💡 Interested in clean UI, structured backend, and practical digital solutions
+- 🤝 Open to freelance projects, collaboration, and internship opportunities
+- 📫 How to reach me: **irvansutnn789@gmail.com**
 
-## Tech Stack
+### 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
+**Frontend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-### Backend
-- PHP
-- Laravel
-- Node.js
+**Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-### Database
-- MySQL
-- PostgreSQL
+### 📊 GitHub Stats
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sutan789&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutan789&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## Featured Project
+<br>
 
-### ACH-13
-A web application project built with TypeScript.  
-This project focuses on clean structure, responsive design, and practical web development implementation.
-
-## GitHub Stats
-
-![Sutan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sutan789&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutan789&layout=compact&theme=github_dark)
-
-## Contact
-
-- Email: irvansutnn789@gmail.com
-- GitHub: https://github.com/sutan789
-- Portfolio: https://portofolio-web-tavny-tau.vercel.app
+---
 
 ## 🎮 Ayo main Tic-Tac-Toe!
 Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda bermain sebagai **X**, saya sebagai **O**).
