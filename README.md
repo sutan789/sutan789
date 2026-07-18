@@ -1,29 +1,11 @@
-<!-- SPACE BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌌 ANIMATED SPACE HEADER — All-in-one (nebula, stars, text) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./assets/space-banner.png" width="100%" alt="Space Banner" />
-</div>
-
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+  <img src="./assets/header.svg" width="100%" alt="Sutan Irvan Aziz - Full-Stack Developer" />
 </div>
 
 <div align="center">
-
-  <!-- ANIMATED HEADER: Capsule Render with space wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:a855f7,50:06b6d4,75:ec4899,100:020205&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
-
-  <!-- TYPING SVG: Name -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Hi%2C+I'm+Sutan+Irvan+Aziz" alt="Typing SVG - Name" />
-  </a>
-  
-  <!-- TYPING SVG: Role -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Full-Stack+Developer+%7C+Building+Scalable+Web+Apps;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+Flutter;Turning+Ideas+Into+Digital+Reality+%E2%9C%A8" alt="Typing SVG - Role" />
-  </a>
-
-  <br/>
 
   <!-- SOCIAL BADGES -->
   <a href="mailto:irvansutnn789@gmail.com">
@@ -41,21 +23,16 @@
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=sutan789&label=Profile%20Views&color=a855f7&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
 </div>
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
-<br/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="28" /> &nbsp;About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="30" /> &nbsp;About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="120" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" />
 
 Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digital inovatif. Berpengalaman dalam membangun aplikasi web yang skalabel dan efisien.
 
@@ -65,73 +42,56 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 - 🤝 Open to collaborating on **innovative digital solutions**
 - 📫 Reach me at **[irvansutnn789@gmail.com](mailto:irvansutnn789@gmail.com)**
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> &nbsp;Tech Stack & Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nextjs,react,nodejs,flutter&perline=8&theme=dark" alt="Backend & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nextjs,react,nodejs,flutter&perline=8&theme=dark" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,bootstrap&perline=6&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,bootstrap&perline=6&theme=dark" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode&perline=6&theme=dark" alt="Tools & DB" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode&perline=6&theme=dark" />
   </a>
 </div>
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> &nbsp;GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/sutan789">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sutan789&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF&ring_color=A855F7" alt="Sutan's GitHub Stats" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sutan789&show_icons=true&hide_border=true&bg_color=020205&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF&ring_color=A855F7" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/sutan789">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutan789&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutan789&layout=compact&hide_border=true&bg_color=020205&title_color=A855F7&text_color=FFFFFF" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sutan789">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutan789&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=06B6D4&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutan789&hide_border=true&background=020205&ring=A855F7&fire=EC4899&currStreakLabel=06B6D4&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 </div>
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <a href="https://github.com/sutan789">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sutan789&bg_color=0D1117&color=A855F7&line=06B6D4&point=EC4899&area=true&area_color=A855F7&hide_border=true" alt="Activity Graph" width="100%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sutan789&bg_color=020205&color=A855F7&line=06B6D4&point=EC4899&area=true&area_color=a855f720&hide_border=true" width="95%"/>
 </div>
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" /> &nbsp;Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
 
@@ -146,12 +106,8 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 
 </div>
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
-
-<br/>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -163,12 +119,8 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
   </picture>
 </div>
 
-<!-- ANIMATED STARFIELD DIVIDER -->
-<div align="center">
-  <img src="./assets/stars.svg" width="100%" alt="Stars" />
-</div>
-
-<br/>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🎮 Ayo main Tic-Tac-Toe!
 Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda bermain sebagai **X**, saya sebagai **O**).
@@ -183,14 +135,12 @@ Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda berma
 
 > Game ini dijalankan otomatis menggunakan GitHub Actions. Saat Anda klik kotak, submit Issue tersebut, dan robot saya akan membalas langkah Anda dalam beberapa detik!
 
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:a855f7,50:06b6d4,75:ec4899,100:020205&height=120&section=footer" width="100%" />
-</div>
+<!-- DIVIDER -->
+<img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="35" />
 
   **Thanks for visiting my space! 🌌**
 
@@ -199,7 +149,7 @@ Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda berma
   <br/><br/>
 
   <a href="https://github.com/sutan789?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀_Explore%20My%20Repos-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Repos-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 
 </div>
