@@ -46,8 +46,8 @@ Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda berma
 <!-- ttt-board-start -->
 |   |   |   |
 |---|---|---|
-| [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C0%7C0&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C0%7C1&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C0%7C2&body=Just+push+%27Submit+new+issue%27.) |
-| [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C1%7C0&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27.) |
+| [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C0%7C0&body=Just+push+%27Submit+new+issue%27.) | ❌ | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C0%7C2&body=Just+push+%27Submit+new+issue%27.) |
+| ⭕ | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27.) |
 | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C2%7C0&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C2%7C1&body=Just+push+%27Submit+new+issue%27.) | [⬜](https://github.com/sutan789/sutan789/issues/new?title=ttt%7C2%7C2&body=Just+push+%27Submit+new+issue%27.) |
 <!-- ttt-board-end -->
 
