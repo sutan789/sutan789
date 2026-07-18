@@ -1,16 +1,31 @@
+<!-- SPACE BANNER -->
+<div align="center">
+  <img src="./assets/space-banner.png" width="100%" alt="Space Banner" />
+</div>
+
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
+
 <div align="center">
 
-  <!-- HEADER: Animated Typing SVG with portfolio color scheme -->
+  <!-- ANIMATED HEADER: Capsule Render with space wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:a855f7,50:06b6d4,75:ec4899,100:020205&height=120&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+
+  <!-- TYPING SVG: Name -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Hi%2C+I'm+Sutan+Irvan+Aziz" alt="Typing SVG - Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=800&height=80&lines=%F0%9F%9A%80+Hi%2C+I'm+Sutan+Irvan+Aziz" alt="Typing SVG - Name" />
   </a>
+  
+  <!-- TYPING SVG: Role -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Full-Stack+Developer+%7C+Building+Scalable+Web+Apps;Laravel+%E2%80%A2+Next.js+%E2%80%A2+Python+%E2%80%A2+Flutter;Turning+Ideas+Into+Digital+Reality+%E2%9C%A8" alt="Typing SVG - Role" />
   </a>
 
   <br/>
 
-  <!-- BADGES: Social links matching portfolio contact info -->
+  <!-- SOCIAL BADGES -->
   <a href="mailto:irvansutnn789@gmail.com">
     <img src="https://img.shields.io/badge/Email-irvansutnn789-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
@@ -26,15 +41,15 @@
 
   <br/><br/>
 
-  <!-- PROFILE VIEWS COUNTER -->
+  <!-- PROFILE VIEWS -->
   <img src="https://komarev.com/ghpvc/?username=sutan789&label=Profile%20Views&color=a855f7&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 
 </div>
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -50,10 +65,10 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 - 🤝 Open to collaborating on **innovative digital solutions**
 - 📫 Reach me at **[irvansutnn789@gmail.com](mailto:irvansutnn789@gmail.com)**
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -61,22 +76,22 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nextjs,react,nodejs,flutter&perline=8" alt="Backend & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nextjs,react,nodejs,flutter&perline=8&theme=dark" alt="Backend & Frameworks" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,bootstrap&perline=6" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,bootstrap&perline=6&theme=dark" alt="Frontend" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode&perline=6" alt="Tools & DB" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,vscode&perline=6&theme=dark" alt="Tools & DB" />
   </a>
 </div>
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -102,8 +117,17 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <a href="https://github.com/sutan789">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sutan789&bg_color=0D1117&color=A855F7&line=06B6D4&point=EC4899&area=true&area_color=A855F7&hide_border=true" alt="Activity Graph" width="100%"/>
+  </a>
+</div>
+
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -122,10 +146,10 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 
 </div>
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -139,10 +163,10 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
   </picture>
 </div>
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- ANIMATED STARFIELD DIVIDER -->
+<div align="center">
+  <img src="./assets/stars.svg" width="100%" alt="Stars" />
+</div>
 
 <br/>
 
@@ -159,25 +183,23 @@ Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda berma
 
 > Game ini dijalankan otomatis menggunakan GitHub Actions. Saat Anda klik kotak, submit Issue tersebut, dan robot saya akan membalas langkah Anda dalam beberapa detik!
 
-<br/>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+<!-- FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020205,25:a855f7,50:06b6d4,75:ec4899,100:020205&height=120&section=footer" width="100%" />
+</div>
 
 <div align="center">
 
-  <br/>
-
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40" />
 
-  **Thanks for visiting my profile!**
+  **Thanks for visiting my space! 🌌**
 
   <sub>Built with 💜 by Sutan Irvan Aziz</sub>
 
   <br/><br/>
 
   <a href="https://github.com/sutan789?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repos-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/🚀_Explore%20My%20Repos-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
 
 </div>
