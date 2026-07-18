@@ -2,7 +2,7 @@
 <!-- 🌌 ANIMATED SPACE HEADER — All-in-one (nebula, stars, text) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Sutan Irvan Aziz - Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/header.svg" width="100%" alt="Sutan Irvan Aziz - Full-Stack Developer" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 </div>
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="28" /> &nbsp;About Me
 
@@ -43,7 +43,7 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 - 📫 Reach me at **[irvansutnn789@gmail.com](mailto:irvansutnn789@gmail.com)**
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
@@ -62,7 +62,7 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 </div>
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
 
@@ -89,7 +89,7 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 </div>
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> &nbsp;Featured Projects
 
@@ -107,7 +107,7 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 </div>
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -120,7 +120,7 @@ Seorang **Fullstack Developer** yang berdedikasi untuk menciptakan solusi digita
 </div>
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 ## 🎮 Ayo main Tic-Tac-Toe!
 Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda bermain sebagai **X**, saya sebagai **O**).
@@ -136,7 +136,7 @@ Klik salah satu kotak kosong di bawah ini untuk memulai langkah Anda (Anda berma
 > Game ini dijalankan otomatis menggunakan GitHub Actions. Saat Anda klik kotak, submit Issue tersebut, dan robot saya akan membalas langkah Anda dalam beberapa detik!
 
 <!-- DIVIDER -->
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/sutan789/sutan789/main/assets/divider.svg" width="100%" />
 
 <div align="center">
 
